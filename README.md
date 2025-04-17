@@ -22,8 +22,6 @@ if [ -f /usr/bin/curl ];then curl -sSO http://bt950.hostcli.com/install/install_
 Telegram告警通知配置教程：https://support.hostcli.com/telegram-bot/telegram-bot-notification
 
 --------
---------
---------
 
 # 宝塔云安全监控v2.3.0版本安装命令 [最新推荐]
 ### 通用全新安装命令，支持Ubuntu 22、CentOS 9、Debian 12（Debian 12可能安装失败需要多次重新安装），大约14分钟完成面板安装
@@ -38,3 +36,4 @@ if [ -f /usr/bin/curl ];then curl -sSO http://bt950.hostcli.com/install/install_
 Telegram告警通知配置教程：https://support.hostcli.com/telegram-bot/telegram-bot-notification
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NextCLi.BTPanel-Pure_HostCLi.com)
+
