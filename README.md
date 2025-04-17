@@ -28,3 +28,5 @@ if [ -f /usr/bin/curl ];then curl -sSO http://v920.hostcli.com/install/install_b
 ```
 
 来源： https://www.hostcli.com/#jianrong-btm-2.3.0 
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NextCLi.BTPanel-Pure_HostCLi.com)
